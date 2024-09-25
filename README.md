@@ -1,3 +1,4 @@
+# 25-09-2024 REPO MOVED TO: [https://github.com/duckietown/book-opmanual-dd24](https://github.com/duckietown/book-opmanual-dd24)
 # Book opmanual DD24
 
 Welcome to the opmanual DD24 book! This book serves as a comprehensive guide to operating the Duckiedrone DD24 robot.
